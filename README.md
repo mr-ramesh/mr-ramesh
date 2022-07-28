@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @mr-ramesh
+- 👀 I’m interested to fight with coding
+- 🌱 I’m currently learning Advanced Java and AWS features
+- 💞️ I’m looking to collaborate on Cloud application development
+- 📫 How to reach me ↔️ mr.ramesh360@gmail.com
+- :octocat: What I know ? ↔️ Java and Cloud (AWS & Azure)
